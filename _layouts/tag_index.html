@@ -1,0 +1,23 @@
+---
+layout: default
+---
+<section id="blog" class="section-padding bg-grey">
+  <div class="grid--double">
+    <h1 class="section-header">{{ page.title }}</h1>
+    <ul class="container-triple" itemscope itemtype="http://schema.org/Blog">
+      {% for post in site.tags[page.title] %}
+        <li class="preview" itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
+          <a class="preview__link wow slideInUp" href="{{ post.url | prepend: site.baseurl }}" itemprop="url">
+            <div class="preview__img bg-alpha">
+              <figure class="absolute-bg wow fadeIn" data-wow-delay="600ms" style="background-image: url('{{ post.image }}');"></figure>
+            </div>
+            <div class="preview__container bg-white">
+              <h2 itemprop="name">{{ post.title }}</h2>
+              <time class="preview__date" itemprop="datePublished" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %-d, %Y" }}</time>
+            </div>
+          </a>
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+</section>

@@ -1,0 +1,53 @@
+/**
+ * Social
+ */
+#instafetch {
+
+  a {
+    @extend %box-shadow;
+
+    position: relative;
+
+    display: block;
+
+    background-color: $color-white;
+
+    &:hover,
+    &:active,
+    &:focus {
+
+      div {
+        opacity: 0.9;
+      }
+    }
+  }
+
+  img {
+    width: 100%;
+  }
+
+  div {
+    @extend %flex-center;
+
+    position: absolute;
+    top: 0;
+    left: 0;
+
+    height: 100%;
+    width: 100%;
+    padding: 2em;
+
+    color: $color-white;
+    background-color: $color-beta;
+    text-align: center;
+    will-change: opacity;
+    opacity: 0;
+    transition: opacity 0.4s ease-in-out;
+  }
+
+  p {
+    margin-bottom: 0;
+
+    font-size: 1.25em;
+  }
+}

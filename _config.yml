@@ -1,0 +1,37 @@
+# Site settings
+baseurl: "" 
+
+# Color settings (Hex value without #)
+color_alpha: feeaeb
+color_beta: 05009e
+
+# Google Analytics
+google_analytics: UA—XXXXXXXX-X
+
+# Instagram API
+instagram_key: 
+instagram_caption: true
+
+# SEO settings
+title: Cartwheel
+description: 
+url: ""
+email:
+twitter_username: 
+default_img: 
+
+# Profile settings
+social:
+  twitter: 
+
+# Build settings
+exclude: ["node_modules", "gulpfile.js", "assets/js/app.js", "README.md", "Gemfile", "Gemfile.lock"]
+markdown: kramdown
+permalink: /:year/:month/:day/:title/
+
+# Sass
+sass:
+  style: compressed
+
+# Gems
+gems: [jekyll-sitemap, octopress-autoprefixer]

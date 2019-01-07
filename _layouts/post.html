@@ -1,0 +1,36 @@
+---
+layout: default
+---
+<article class="bg-grey" itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-mast bg-alpha">
+    <figure class="absolute-bg" style="background-image: url('{{ page.image }}');"></figure>
+  </header>
+
+  <div class="grid--double">
+    <section class="post section-padding--half bg-grey" itemprop="articleBody">
+      <header class="post-header">
+        <h1 itemprop="name headline">{{ page.title }}</h1>
+      </header>
+      <div class="post-content">
+        {{ content }}
+      </div>
+      {% if page.tags.size > 0 %}
+        <span class="post-content__tags">Tags
+          {% for tag in page.tags %}
+            <a href="{{ site.baseurl }}/tag/{{ tag | downcase | slugify }}">{{ tag }}</a>{% if forloop.last == false %}, {% endif %}
+          {% endfor %}
+        </span>
+      {% endif %}
+
+      <div class="container-btn">
+        <a class="btn" href="/archive">
+          <div>
+            <span>Older Posts</span>
+            <span>Older Posts</span>
+          </div>
+        </a>
+      </div>
+    </section>
+  </div>
+</article>

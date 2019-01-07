@@ -1,0 +1,71 @@
+/**
+ * Mast
+ */
+.mast {
+  position: relative;
+
+  @media (min-width: $mq-md) {
+    display: flex;
+    height: 100vh;
+  }
+
+  &__header {
+    position: absolute;
+    top: 50%;
+    left: 75%;
+    z-index: 1;
+
+    padding: 1em;
+
+    color: $color-white;
+    text-align: center;
+    transform: translate(-50%, -50%);
+
+    h1 {
+      font-size: 3.75em;
+      animation: fadeIn 3s both 0.6s;
+
+      @media (min-width: $mq-md) {
+        font-size: 5.5em;
+      }
+    }
+
+    span {
+      display: block;
+      margin-top: 0.25em;
+
+      font-size: 1.1em;
+      animation: fadeInUp 3s both 0.9s;
+
+      @media (min-width: $mq-sm) {
+        font-size: 1.25em;
+      }
+    }
+  }
+
+  &__img {
+    position: relative;
+
+    padding-top: 120%;
+
+    @media (min-width: $mq-md) {
+      flex-basis: 50%;
+      max-width: 50%;
+      padding-top: 0;
+    }
+
+    &:first-child {
+      animation: fadeIn 3s both 0.3s;
+    }
+
+    &:last-child {
+      display: none;
+
+      @media (min-width: $mq-md) {
+        display: block;
+
+        animation: fadeIn 3s both 0.6s;
+      }
+    }
+  }
+}

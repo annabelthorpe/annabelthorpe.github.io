@@ -1,0 +1,71 @@
+/**
+ * Header
+ */
+.header {
+  @extend %box-shadow;
+
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 99;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 4em;
+  width: 100%;
+  padding-right: 1em;
+  padding-left: 1em;
+
+  background-color: $color-white;
+
+  @media (min-width: $mq-md) {
+    padding-right: 2em;
+    padding-left: 2em;
+  }
+
+  &__img {
+
+    img {
+      height: 3em;
+      width: 3em;
+    }
+  }
+
+  &__list {
+    display: flex;
+
+    list-style-type: none;
+
+    & > * {
+
+      &:not(:last-child) {
+        margin-right: 1em;
+      }
+
+      a {
+        @include link-underline();
+        
+        font-family: $font-header;
+        font-weight: 700;
+      }
+    }
+  }
+}
+
+#home .header {
+  position: absolute;
+
+  background-color: transparent;
+  box-shadow: none;
+
+  &.scrollingHeader {
+    @extend %box-shadow;
+    @extend .animated;
+    @extend .fadeInDown;
+
+    position: fixed;
+
+    background-color: $color-white;
+  }
+}

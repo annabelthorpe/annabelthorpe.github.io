@@ -1,0 +1,76 @@
+/**
+ * Body
+ */
+body {
+  min-height: 100vh;
+
+  color: $color-black;
+  background-color: $color-white;
+}
+
+/**
+ * Main
+ */
+main {
+  flex-grow: 1;
+  padding-top: 4em;
+
+  #home & {
+    padding-top: 0;
+  }
+}
+
+/**
+ * Sections
+ */
+section {
+  position: relative;
+}
+
+.section-padding {
+  padding-top: 4em;
+  padding-bottom: 4em;
+
+  @media (min-width: $mq-sm) {
+    padding-top: 6em;
+    padding-bottom: 6em;
+  }
+
+  &--half {
+    padding-top: 2em;
+    padding-bottom: 2em;
+
+    @media (min-width: $mq-sm) {
+      padding-top: 3em;
+      padding-bottom: 3em;
+    }
+  }
+}
+
+.grid {
+  margin-right: 1em;
+  margin-left: 1em;
+
+  @media (min-width: $mq-md) {
+    margin-right: 4em;
+    margin-left: 4em;
+  }
+
+  &--double {
+    margin-right: 1em;
+    margin-left: 1em;
+
+    @media (min-width: $mq-md) {
+      margin-right: 8em;
+      margin-left: 8em;
+    }
+  }
+}
+
+.section-header {
+  text-align: center;
+
+  span {
+    display: inline-block;
+  }
+}

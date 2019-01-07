@@ -1,0 +1,35 @@
+---
+layout: post
+title: "Anchor"
+date: 2017-02-09
+image: /assets/images/anchor.JPG
+---
+I started anchoring for KOMU-TV as a local cut-ins anchor during local looks on the TODAY show. Each hit was about 2 minutes long, and I did five hits per morning. Now, I anchor a full 30 minute show on Thursday mornings from 4:30 a.m. to 5 a.m. I've also covered the noon show and a few evenings shows. I've become a morning and night person!
+
+I know how to:
+* write scripts and teases
+* use prompters
+* impromptu chats with the other anchors
+* connect with stories
+* handle technical errors (like prompter issues, reporter issues, etc.)
+* be comfortable and enunciate on camera
+
+<h3>Reel</h3>
+<iframe src="https://www.komu.com/videoplayer/iframe_jw.cfm?video_id=48676" height="410" width="728" frameBorder="0" scrolling="auto" ></iframe>
+
+<figure class="large-img">
+  <img src="/assets/images/anchor2.JPG" alt="Placeholder"/>
+</figure>
+
+<blockquote>
+  Sartorial af ennui bitters knausgaard, leggings kickstarter slow-carb chia sustainable hexagon. Prism 3 wolf moon occupy ramps wayfarers tumblr narwhal 90's.
+  <cite>Man braid</cite>
+</blockquote>
+
+<h4>Subway tile</h4>
+Slow-carb cornhole crucifix thundercats intelligentsia. Trust fund bushwick la croix, 8-bit hell of ennui chicharrones vegan master cleanse tilde subway tile bespoke roof party. Next level celiac bushwick coloring book subway tile. Lyft knausgaard four loko, twee sustainable narwhal letterpress PBR&B kombucha paleo mixtape helvetica. Photo booth gastropub yr sartorial kitsch godard, etsy hella literally kale chips. Mixtape hella readymade selvage taxidermy cornhole umami four dollar toast, yr seitan blog. Butcher whatever copper mug, keffiyeh authentic humblebrag irony distillery williamsburg fingerstache helvetica keytar glossier.
+
+<figure>
+  <img src="/assets/images/placeholders/placeholder-11.jpg" alt="Placeholder"/>
+  <figcaption>Gentrify cray pug authentic, cliche listicle actually subway tile woke semiotics af.</figcaption>
+</figure>

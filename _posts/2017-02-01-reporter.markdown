@@ -1,0 +1,64 @@
+---
+layout: post
+title: "Reporter"
+date: 2017-02-10
+categories:
+description:
+image: /assets/images/reporter.JPG
+---
+I am an MMJ for KOMU-TV. I have worked Saturday and Sunday morning shifts, doing 6 live hits by the end of the morning. I've learned how to turn stories quickly and push for the interviews needed to tell the story best. Storytelling is my passion, and I am known for getting stories that accentuate interesting people and events in Columbia, MO.
+
+I know how to:
+* pitch newsworthy stories
+* shoot all my own footage
+* interview
+* live tweet my stories
+* edit on Premiere Pro, Final Cut and Avid
+* voice my PKGS
+* turn PKGS and VOSOTVOs
+* work in iNews
+* go live with a Dejero backpack
+* design creative stand-ups
+* complete demonstrative stand-ups (my favorite!)
+
+## Examples
+<h4>Packages</h4>
+
+<iframe src="https://www.komu.com/videoplayer/iframe_jw.cfm?video_id=48676" height="410" width="728" frameBorder="0" scrolling="auto" ></iframe>
+
+See more examples of my work with accompanying articles and photos on KOMU's site below.
+* [New church display expands meaning of mangers](https://www.komu.com/news/new-church-display-expands-meaning-of-mangers)
+* [Walk to End Alzheimer's flowers represent more than their colors](https://www.komu.com/news/walk-to-end-alzheimer-s-flowers-represent-more-than-their-colors)
+* [Suicide prevention walk helps survivors and those harmed by suicide loss](Suicide prevention walk helps survivors and those harmed by suicide loss)
+* [Freedom Walk 5k raises awareness about human sex trafficking](https://www.komu.com/news/freedom-walk-5k-raises-awareness-about-human-sex-trafficking)
+
+<h4>VOSOTVOs</h4>
+<iframe src="https://www.komu.com/videoplayer/iframe_jw.cfm?video_id=48835" height="410" width="728" frameBorder="0" scrolling="auto" ></iframe>
+See more examples of my work with accompanying articles and photos on KOMU's site below.
+
+* [Jingle Bell Run hopes to ring in a cure for arthritis](https://www.komu.com/news/jingle-bell-run-hopes-to-ring-in-a-cure-for-arthritis)
+* [High school planetarium opens to public in rare showing](https://www.komu.com/news/high-school-planetarium-opens-to-public-in-rare-showing)
+* [Conference inspires outdoor classrooms and school gardens](https://www.komu.com/news/conference-inspires-outdoor-classrooms-and-school-gardens)
+* [MeatPalooza raises funds For Central Missouri Honor Flight](https://www.komu.com/news/meatpalooza-raises-funds-for-central-missouri-honor-flight)
+
+<figure class="large-img">
+  <img src="/assets/images/ground.JPG" alt="Placeholder"/>
+</figure>
+
+<figure>
+  <img src="/assets/images/placeholders/placeholder-5.jpg" alt="Placeholder"/>
+</figure>
+
+
+<blockquote>
+  Sartorial af ennui bitters knausgaard, leggings kickstarter slow-carb chia sustainable hexagon. Prism 3 wolf moon occupy ramps wayfarers tumblr narwhal 90's.
+  <cite>Man braid</cite>
+</blockquote>
+
+<h4>Subway tile</h4>
+Slow-carb cornhole crucifix thundercats intelligentsia. Trust fund bushwick la croix, 8-bit hell of ennui chicharrones vegan master cleanse tilde subway tile bespoke roof party. Next level celiac bushwick coloring book subway tile. Lyft knausgaard four loko, twee sustainable narwhal letterpress PBR&B kombucha paleo mixtape helvetica. Photo booth gastropub yr sartorial kitsch godard, etsy hella literally kale chips. Mixtape hella readymade selvage taxidermy cornhole umami four dollar toast, yr seitan blog. Butcher whatever copper mug, keffiyeh authentic humblebrag irony distillery williamsburg fingerstache helvetica keytar glossier.
+
+<figure>
+  <img src="/assets/images/placeholders/placeholder-11.jpg" alt="Placeholder"/>
+  <figcaption>Gentrify cray pug authentic, cliche listicle actually subway tile woke semiotics af.</figcaption>
+</figure>

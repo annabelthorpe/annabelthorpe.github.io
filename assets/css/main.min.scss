@@ -1,0 +1,28 @@
+---
+---
+
+$color-alpha: #{{ site.color_alpha }};
+$color-beta: #{{ site.color_beta }};
+
+@import 'tools/_config',
+  'tools/_mixins',
+  'tools/_extends';
+
+@import 'base/_normalize',
+  'base/_settings';
+
+@import 'vendor/_owlcarousel';
+
+@import 'regions/_body',
+  'regions/_footer',
+  'regions/_header';
+
+@import 'components/_about',
+  'components/_carousel', 
+  'components/_instafetch',
+  'components/_mast',
+  'components/_post',
+  'components/_preview';
+
+@import 'utils/_animations',
+  'utils/_helpers';

@@ -1,0 +1,20 @@
+/**
+ * About
+ */
+.about {
+  max-width: $mq-md;
+  margin: 2em auto 0;
+
+  overflow: hidden;
+
+  @media (min-width: $mq-sm) {
+    margin-top: 3em;
+  }
+
+  &__text {
+    margin-bottom: 0;
+
+    font-size: 1.5em;
+    text-align: center;
+  }
+}

@@ -1,0 +1,80 @@
+  ---
+layout: default
+---
+<section class="mast">
+  <header class="mast__header">
+    <h1>Annabel Thorpe</h1>
+    <span>Reporter | Anchor</span>
+  </header>
+  <div class="mast__img bg-grey">
+    <div class="absolute-bg" style="background-image: url('/assets/images/IMG_0618.jpg');"></div>
+  </div>
+  <div class="mast__img bg-alpha">
+    <div class="absolute-bg" style="background-color: #577ca8"></div>
+  </div>
+</section>
+
+<section id="about" class="section-padding bg-grey">
+  <div class="grid">
+    <h1 class="section-header">About</h1>
+    <div class="about">
+      <p class="about__text">I have always been a storyteller. My stories have just taken different forms throughout the years. </p>
+    </div>
+    <div id="instafetch" class="container-triple"></div>
+  </div>
+</section>
+
+<section id="Reels" class="section-padding bg-alpha">
+  <div class="grid--double">
+    <h1 class="section-header">Reels</h1>
+    <div class="portfolio-carousel owl-carousel">
+      <div>
+        <figure>
+          <img src="/assets/images/portfolio-1.png" alt="Portfolio Item"/>
+        </figure>
+      </div>
+      <div>
+        <figure>
+          <img src="/assets/images/portfolio-2.png" alt="Portfolio Item"/>
+        </figure>
+      </div>
+      <div>
+        <figure>
+          <img src="/assets/images/portfolio-3.png" alt="Portfolio Item"/>
+        </figure>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="Portfolio" class="section-padding bg-white">
+  <div class="grid">
+    <h1 class="section-header">Portfolio</h1>
+    <ul class="container-double" itemscope itemtype="http://schema.org/Blog">
+      {% for post in site.posts limit:10 %}
+        <li class="preview" itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
+          <a class="preview__link" href="{{ post.url | prepend: site.baseurl }}" itemprop="url">
+            <div class="preview__img bg-grey">
+              <figure class="absolute-bg" style="background-image: url('{{ post.image }}');"></figure>
+            </div>
+            <div class="preview__container bg-white">
+              <div>
+                <h2 class="" itemprop="name">{{ post.title }}</h2>
+                <p class="preview__excerpt" itemprop="description">{{ post.content | strip_html | truncatewords: 30 }}</p>
+              </div>
+            </div>
+          </a>
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+</section>
+
+<section id="Resume" class="section-padding bg-alpha">
+  <div class="grid--double">
+    <h1 class="section-header">Resume</h1>
+    <div class="portfolio-carousel owl-carousel">
+      <div>
+        <figure>
+          <img src="/assets/images/Resume.png" alt="Portfolio Item"/>
+        </figure>

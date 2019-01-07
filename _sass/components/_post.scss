@@ -1,0 +1,157 @@
+/**
+ * Post
+ */
+.post-mast {
+  position: relative;
+
+  padding-top: 60%;
+
+  @media (min-width: $mq-md) {
+    height: calc(100vh - 4em);
+    padding-top: 0;
+  }
+
+  .absolute-bg {
+    animation: fadeIn 3s both 0.3s;
+  }
+}
+
+.post {
+
+  @media (min-width: $mq-md) {
+    margin-top: -6em;
+  }
+
+  @media (min-width: $mq-xxl) {
+    max-width: $mq-xl;
+    margin-right: auto;
+    margin-left: auto;
+  }
+}
+
+.post-header {
+  margin-bottom: 1em;
+
+  text-align: center;
+
+  @media (min-width: $mq-md) {
+    margin-bottom: 3em;
+  }
+
+  &__time {
+    display: block;
+    margin-top: 0.5em;
+
+    font-size: 1.25em;
+  }
+}
+
+.post-content {
+
+  @media (min-width: $mq-md) {
+    margin-right: 8em;
+    margin-left: 8em;
+  }
+  
+  p {
+
+    &:first-of-type {
+      font-size: 1.25em;
+    }
+
+    &:last-child {
+      margin-bottom: 0;
+    }
+  }
+
+  a {
+    @include link-posts();
+  }
+
+  ol, ul {
+    margin-bottom: 1em;
+    margin-left: 1em;
+
+    & > li {
+      position: relative;
+
+      &:before {
+        position: absolute;
+        left: -1em;
+      }
+
+      &:not(:last-child) {
+        margin-bottom: 0.25em;
+      }
+    }
+  }
+
+  ol {
+    list-style-type: none;
+    counter-reset: li;
+
+    & > li:before { 
+      content: counter(li) ".";
+
+      counter-increment: li;
+    }
+  }
+
+  figure {
+    margin-top: 2em;
+    margin-bottom: 2em;
+
+    background-color: $color-grey;
+
+    @media (min-width: $mq-sm) {
+      margin-top: 3em;
+      margin-bottom: 3em;
+    }
+
+    img {
+      width: 100%;
+    }
+  }
+
+  figcaption {
+    margin-top: 0.5em;
+
+    text-align: center;
+  }
+
+  & figure.large-img {
+
+    @media (min-width: $mq-md) {
+      margin-right: -16em;
+      margin-left: -16em;
+    }
+  }
+
+  &__tags {
+    display: block;
+    margin-top: 2em;
+    margin-bottom: 2em;
+
+    font-family: $font-header;
+    font-weight: 700;
+    text-align: center;
+
+    @media (min-width: $mq-sm) {
+      margin-top: 3em;
+      margin-bottom: 3em;
+    }
+
+    a {
+      font-family: $font-body;
+      font-weight: 400;
+    }
+
+    & + .container-btn {
+      margin-top: 0;
+    }
+  }
+
+  .container-btn {
+    margin-top: 3em;
+  }
+}

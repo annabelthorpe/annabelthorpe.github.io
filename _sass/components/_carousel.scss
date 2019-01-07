@@ -1,0 +1,64 @@
+/**
+ * Portfolio Carousel
+ */
+.portfolio-carousel {
+  margin-top: 2em;
+
+  @media (min-width: $mq-sm) {
+    margin-top: 3em;
+  }
+}
+
+/**
+ * Owl Carousel
+ */
+.owl-carousel .owl-item img {
+  width: auto;
+  margin: 0 auto;
+}
+
+.owl-nav {
+  position: absolute;
+  top: 0;
+  left: 0;
+
+  display: flex;
+  height: calc(100% - 4em);
+  width: 100%;
+
+  & > * {
+    flex-basis: 50%;
+    max-width: 50%;
+  }
+}
+
+.owl-carousel .owl-nav .owl-prev {
+  cursor: w-resize;
+}
+
+.owl-carousel .owl-nav .owl-next {
+  cursor: e-resize;
+}
+
+.owl-dots {
+  display: flex;
+  justify-content: center;
+  margin-top: 3em;
+}
+
+.owl-dot {
+  display: block;
+  height: 0.75em;
+  width: 0.75em;
+
+  background-color: $color-grey;
+  border-radius: 100%;
+
+  &:not(:last-child) {
+    margin-right: 0.5em;
+  }
+
+  &.active {
+    background-color: $color-beta;
+  }
+}

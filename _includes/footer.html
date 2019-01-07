@@ -1,0 +1,29 @@
+<footer class="footer section-padding--half bg-alpha">
+  <div class="footer__container grid">
+    <p>&copy;{{ site.time | date: "%Y" }} {{ site.title }}. Coded With Code by Thomas Vaeth.</p>
+    {% if site.email or site.social %}
+      <ul class="footer__social">
+        {% if site.email %}
+          <li><a class="fa fa-lg fa-envelope-o" href="mailto:{{ site.email }}"></a></li>
+        {% endif %}
+        {% for social in site.social %}
+          <li><a class="fa fa-lg fa-{{ social[0] }}" href="{{ social[1] }}" target="_blank"></a></li>
+        {% endfor %}
+      </ul>
+    {% endif %}
+  </div>
+</footer>
+
+<script type="text/javascript" src="{{ '/assets/js/jquery.min.js' | prepend: site.baseurl }}"></script>
+<script type="text/javascript" src="{{ '/assets/js/app.min.js' | prepend: site.baseurl }}"></script>
+{% if site.instagram_key %}
+  <script type="text/javascript">
+    if ($('body').attr('id') === 'home') {
+      instafetch.init({
+        accessToken: '{{ site.instagram_key }}',
+        numOfPics: 6,
+        caption: {{ site.instagram_caption }}
+      });
+    }  
+  </script>
+{% endif %}
