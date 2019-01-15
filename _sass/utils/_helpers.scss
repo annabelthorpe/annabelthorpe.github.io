@@ -1,3 +1,8 @@
+.owl-centered {
+  margin: auto;
+  width: 500px;
+}
+
 /**
  * Absolute Background Cover
  */
@@ -74,7 +79,7 @@
   max-width: $mq-md;
   margin: 1em auto 0;
   padding-top: 2em;
-  
+
   text-align: center;
   border-top: 1px solid rgba($color-black, 0.1);
 }

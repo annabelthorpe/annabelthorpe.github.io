@@ -8,14 +8,14 @@ I started anchoring for KOMU-TV as a local cut-ins anchor during local looks on 
 
 I know how to:
 * write scripts and teases
-* use prompters
+* use multiple prompters
 * impromptu chats with the other anchors
 * connect with stories
-* handle technical errors (like prompter issues, reporter issues, etc.)
+* handle technical errors on air (like prompter issues, reporter live shot drops, etc.)
 * be comfortable and enunciate on camera
 
 <h3>Reel</h3>
-<iframe src="https://www.komu.com/videoplayer/iframe_jw.cfm?video_id=48676" height="410" width="728" frameBorder="0" scrolling="auto" ></iframe>
+<iframe width="728" height="410" src="https://www.youtube.com/embed/UEAyR3UEuVA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <figure class="large-img">
   <img src="/assets/images/anchor2.JPG" alt="Placeholder"/>
