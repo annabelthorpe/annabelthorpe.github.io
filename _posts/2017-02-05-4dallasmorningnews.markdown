@@ -6,13 +6,13 @@ categories:
 description:
 image: /assets/images/DMN HEADER.JPG
 ---
-Youngest and first. I was the youngest intern at the Dallas Morning News as a sophomore in high school. That first summer, I worked as a metro news reporter, covering a variety of topics from a theatre troupe to a massive vandalism with a drugged up assailant. I also made DMN's intern recruitment video.
+Youngest and first. At age 16, I was the youngest intern at the Dallas Morning News. My first summer, I worked as a metro news reporter, covering a variety of topics from a theatre troupe to a vandalism with a drugged up vandal. I also made DMN's first intern recruitment video.
 <div>
 </div>
-I was invited back my junior year as the first video intern in a position they created for me. I went to many assignments that pushed me out of my comfort zone, especially during the Dallas Ambush. Some video I made were for social media posts, while others were for stories, while others were for purely for web.
+I was invited back my junior year as the first video intern in a position they created for me. I went to many assignments that pushed me out of my comfort zone, especially during the Dallas Ambush. Some videos I made were for social media posts, while others were paired with online stories or purely for YouTube.
 <div>
 </div>
-I spent time at DMN during its transition to a web-first publication. A BIG change for Texas' top newspaper. I was able to be part of that change; publisher and CEO Jim Moroney asked the interns for advice to target younger crowds. He also wrote a recommendation letter for me. I feel I will always have a home at the Dallas Morning News.
+I spent time at DMN during its transition to a web-first publication. A BIG change for one of Texas' top newspapers. I was able to be part of that change; publisher and CEO Jim Moroney asked the interns for advice to target younger crowds. He also wrote a recommendation letter for me. I feel I will always have a home at the Dallas Morning News.
 
 <h4>Intern recruitment video</h4>
 <iframe width="728" height="410" src="https://www.youtube.com/embed/HQjhobrk-hE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
