@@ -44,21 +44,3 @@ See more examples of my work with accompanying articles and photos on KOMU's sit
 <figure class="large-img">
   <img src="/assets/images/ground.JPG" alt="Placeholder"/>
 </figure>
-
-<figure>
-  <img src="/assets/images/placeholders/placeholder-5.jpg" alt="Placeholder"/>
-</figure>
-
-
-<blockquote>
-  Sartorial af ennui bitters knausgaard, leggings kickstarter slow-carb chia sustainable hexagon. Prism 3 wolf moon occupy ramps wayfarers tumblr narwhal 90's.
-  <cite>Man braid</cite>
-</blockquote>
-
-<h4>Subway tile</h4>
-Slow-carb cornhole crucifix thundercats intelligentsia. Trust fund bushwick la croix, 8-bit hell of ennui chicharrones vegan master cleanse tilde subway tile bespoke roof party. Next level celiac bushwick coloring book subway tile. Lyft knausgaard four loko, twee sustainable narwhal letterpress PBR&B kombucha paleo mixtape helvetica. Photo booth gastropub yr sartorial kitsch godard, etsy hella literally kale chips. Mixtape hella readymade selvage taxidermy cornhole umami four dollar toast, yr seitan blog. Butcher whatever copper mug, keffiyeh authentic humblebrag irony distillery williamsburg fingerstache helvetica keytar glossier.
-
-<figure>
-  <img src="/assets/images/placeholders/placeholder-11.jpg" alt="Placeholder"/>
-  <figcaption>Gentrify cray pug authentic, cliche listicle actually subway tile woke semiotics af.</figcaption>
-</figure>
