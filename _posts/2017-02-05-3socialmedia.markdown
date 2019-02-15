@@ -9,7 +9,7 @@ image: /assets/images/social media header.JPG
 Social media is a crucial part of my process as a reporter, anchor and producer. I have attended several events purely to be the digital reporter, writing the web story and live tweeting.
 <div>
 </div>
-This semester, I traveled three hours to Cape Girardeau to cover President Trump's last rally for then senator candidate Josh Hawley (R). Hawley ran a very close campaign to incumbent senator Claire McCaskill (D). It was an intense race, and I covered the event on Twitter and as a field producer.
+This semester, I traveled three hours to Cape Girardeau to cover President Trump's last rally for then senator candidate Josh Hawley (R). Hawley ran a very close campaign to incumbent Senator Claire McCaskill (D). It was an intense race, and I covered the event on Twitter and as a field producer.
 
 <section id="Reels" class="section-padding bg-alpha">
 
