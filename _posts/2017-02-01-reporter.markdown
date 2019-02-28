@@ -24,7 +24,7 @@ I know how to:
 ## Examples
 <h4>Packages</h4>
 
-<iframe src="https://www.komu.com/videoplayer/iframe_jw.cfm?video_id=48676" height="410" width="728" frameBorder="0" scrolling="auto" ></iframe>
+<iframe src="https://www.komu.com/videoplayer/iframe_jw.cfm?video_id=50531" height="410" width="728" frameBorder="0" scrolling="auto" ></iframe>
 
 See more examples with accompanying articles and photos on KOMU's site below.
 * [New church display expands meaning of mangers](https://www.komu.com/news/new-church-display-expands-meaning-of-mangers)
@@ -36,7 +36,8 @@ See more examples with accompanying articles and photos on KOMU's site below.
 <iframe src="https://www.komu.com/videoplayer/iframe_jw.cfm?video_id=48835" height="410" width="728" frameBorder="0" scrolling="auto" ></iframe>
 See more examples with accompanying articles and photos on KOMU's site below.
 
-* [Jingle Bell Run hopes to ring in a cure for arthritis](https://www.komu.com/news/jingle-bell-run-hopes-to-ring-in-a-cure-for-arthritis)
+
+* [New film showcase focuses entirely on local filmmakers](https://www.komu.com/news/new-film-showcase-focuses-entirely-on-local-filmmakers)
 * [High school planetarium opens to public in rare showing](https://www.komu.com/news/high-school-planetarium-opens-to-public-in-rare-showing)
 * [Conference inspires outdoor classrooms and school gardens](https://www.komu.com/news/conference-inspires-outdoor-classrooms-and-school-gardens)
 * [MeatPalooza raises funds For Central Missouri Honor Flight](https://www.komu.com/news/meatpalooza-raises-funds-for-central-missouri-honor-flight)
