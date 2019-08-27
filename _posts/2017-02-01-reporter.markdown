@@ -22,6 +22,10 @@ I know how to:
 * complete demonstrative stand-ups (my favorite!)
 
 ## Examples
+<h4>Reel</h4>
+
+<iframe width="728" height="410" src="https://www.youtube.com/embed/Gly5V3Rdces" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <h4>Packages</h4>
 
 <iframe src="https://www.komu.com/videoplayer/iframe_jw.cfm?video_id=50531" height="410" width="728" frameBorder="0" scrolling="auto" ></iframe>
@@ -29,18 +33,18 @@ I know how to:
 See more examples with accompanying articles and photos on KOMU's site below.
 * [New church display expands meaning of mangers](https://www.komu.com/news/new-church-display-expands-meaning-of-mangers)
 * [Walk to End Alzheimer's flowers represent more than their colors](https://www.komu.com/news/walk-to-end-alzheimer-s-flowers-represent-more-than-their-colors)
-* [Suicide prevention walk helps survivors and those harmed by suicide loss](Suicide prevention walk helps survivors and those harmed by suicide loss)
+* [MU students volunteer to help people with multiple sclerosis](https://www.komu.com/news/mu-students-volunteer-to-help-people-with-multiple-sclerosis)
 * [Freedom Walk 5k raises awareness about human sex trafficking](https://www.komu.com/news/freedom-walk-5k-raises-awareness-about-human-sex-trafficking)
 
 <h4>VOSOTVOs and VOSOTTAGS</h4>
-<iframe src="https://www.komu.com/videoplayer/iframe_jw.cfm?video_id=48835" height="410" width="728" frameBorder="0" scrolling="auto" ></iframe>
+<iframe src="<iframe src="https://www.komu.com/videoplayer/iframe_jw.cfm?video_id=54315" height="410" width="728" frameBorder="0" scrolling="auto" ></iframe>" height="410" width="728" frameBorder="0" scrolling="auto" ></iframe>
 See more examples with accompanying articles and photos on KOMU's site below.
 
 
-* [New film showcase focuses entirely on local filmmakers](https://www.komu.com/news/new-film-showcase-focuses-entirely-on-local-filmmakers)
-* [High school planetarium opens to public in rare showing](https://www.komu.com/news/high-school-planetarium-opens-to-public-in-rare-showing)
-* [Conference inspires outdoor classrooms and school gardens](https://www.komu.com/news/conference-inspires-outdoor-classrooms-and-school-gardens)
-* [MeatPalooza raises funds For Central Missouri Honor Flight](https://www.komu.com/news/meatpalooza-raises-funds-for-central-missouri-honor-flight)
+* [More than a piece of clothing, Stephens College celebrates the past](https://www.komu.com/news/more-than-a-piece-of-clothing-stephens-college-celebrates-the-past)
+* [Free tax aid program impacted by government shutdown and new tax plan](https://www.komu.com/news/free-tax-aid-program-impacted-by-government-shutdown-and-new-tax-plan)
+* [Jingle Bell Run hopes to rings in a cure for arthritis](https://www.komu.com/news/jingle-bell-run-hopes-to-ring-in-a-cure-for-arthritis)
+* [Compost awareness week teaches people to get down in the dirt](https://www.komu.com/news/compost-awareness-week-teaches-people-to-get-down-in-the-dirt)
 
 <figure class="large-img">
   <img src="/assets/images/ground.JPG" alt="Placeholder"/>
