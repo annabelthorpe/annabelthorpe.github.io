@@ -6,7 +6,7 @@ categories:
 description:
 image: /assets/images/reporter.JPG
 ---
-I am a multimedia journalists for KOMU-TV, so I interview, shoot and edit all my own stories. I have worked Saturday and Sunday morning shifts, completing 6 live hits by the end of the morning. I've learned how to turn stories quickly and push for the interviews needed to tell the story best. Storytelling is my passion, and I am known for getting stories that accentuate interesting people and events in Columbia, MO.
+I am a multimedia journalists for KOMU-TV, so I interview, shoot and edit all my own stories. I've learned how to turn stories quickly and push for the interviews needed to tell the best story.
 
 I know how to:
 * pitch newsworthy stories
@@ -37,7 +37,8 @@ See more examples with accompanying articles and photos on KOMU's site below.
 * [Freedom Walk 5k raises awareness about human sex trafficking](https://www.komu.com/news/freedom-walk-5k-raises-awareness-about-human-sex-trafficking)
 
 <h4>VOSOTVOs and VOSOTTAGS</h4>
-<iframe src="<iframe src="https://www.komu.com/videoplayer/iframe_jw.cfm?video_id=54315" height="410" width="728" frameBorder="0" scrolling="auto" ></iframe>" height="410" width="728" frameBorder="0" scrolling="auto" ></iframe>
+<iframe src="https://www.komu.com/videoplayer/iframe_jw.cfm?video_id=54315" height="410" width="728" frameBorder="0" scrolling="auto" ></iframe>
+
 See more examples with accompanying articles and photos on KOMU's site below.
 
 
