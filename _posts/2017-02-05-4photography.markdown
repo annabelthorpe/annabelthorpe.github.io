@@ -6,7 +6,7 @@ categories:
 description:
 image: /assets/images/photography headder.jpg
 ---
-My first love for journalism started through photography. My main camera for the following photos is the 5D Mark iii. My main photo genre?  There really isn't one. I have experience and enjoy shooting sports, environmental portraits, news events and more.
+I first fell in love with journalism through photography. I mainly use a Cannon 5D Mark iii in the following photos. I have experience shooting sports, environmental portraits, news events and more.
 
 #### Feature Photos
 <a data-flickr-embed="true" data-header="true"  href="https://www.flickr.com/photos/169249975@N05/albums/72157705839049034" title="Feature Photos"><img src="https://farm5.staticflickr.com/4840/46757059561_3fc433219b_c.jpg" width="800" height="538" alt="Feature Photos"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
