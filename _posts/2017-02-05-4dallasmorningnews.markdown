@@ -6,7 +6,7 @@ categories:
 description:
 image: /assets/images/DMN HEADER.JPG
 ---
-<h2>CNN</h2>
+<h3>CNN</h3>
 June 2019  - August 2019
 <div>
 </div>
@@ -18,7 +18,7 @@ For this piece, I pitched the idea, wrote the script, and edited the piece with 
 
 <iframe width="728" height="410" src="https://www.youtube.com/embed/_unsA0iq_c8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<h2>London Live</h2>
+<h3>London Live</h3>
 January 2020-March 2020
 <div>
 </div>
@@ -37,7 +37,7 @@ During my semester abroad, I interned for London Live. London Live is a local ne
 </div>
 <div>
 </div>
-<h1>Dallas Morning News</h1>
+<h3>Dallas Morning News</h3>
 June 2015-August 2015
 June 2016-July 2016
 <div>
@@ -46,10 +46,10 @@ I was the youngest intern to work for the Dallas Morning News, and I interned fo
 <div>
 </div>
 
-<h2>Intern recruitment video</h2>
+<h4>Intern recruitment video</h4>
 <iframe width="728" height="410" src="https://www.youtube.com/embed/HQjhobrk-hE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<h3>Metro news reporter examples</h3>
+<h4>Metro news reporter examples</h4>
 * [Kids’ University specializes in hopes and dreams for homeless children](https://www.dallasnews.com/news/richardson/2015/06/12/kids-university-specializes-in-hopes-and-dreams-for-homeless-children)
 * [Latino Cultural Center cleaning up from vandalism](https://www.dallasnews.com/news/news/2015/07/23/latino-cultural-center-cleaning-up-from-vandalism)
 * [Kitchen Dog Theater to unload 20 years worth of props at garage sale](https://www.dallasnews.com/news/news/2015/07/09/kitchen-dog-theater-to-unload-20-years-worth-of-props-at-garage-sale)
