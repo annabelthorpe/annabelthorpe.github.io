@@ -39,6 +39,8 @@ During my semester abroad, I interned for London Live. London Live is a local ne
 </div>
 <h3>Dallas Morning News</h3>
 June 2015-August 2015
+<div>
+</div>
 June 2016-July 2016
 <div>
 </div>
