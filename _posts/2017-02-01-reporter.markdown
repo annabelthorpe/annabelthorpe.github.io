@@ -6,7 +6,7 @@ categories:
 description:
 image: /assets/images/reporter.JPG
 ---
-I am a multimedia journalists for KOMU-TV, so I interview, shoot and edit all my own stories. I've learned how to turn stories quickly and push for the interviews needed to tell the best story.
+I am a multimedia journalists for KOMU-TV, so I interview, shoot and edit all my own stories. I've learned how to turn stories quickly and push for the interviews needed to tell the best story. All of the stories below, except the featured pkg, are day turns.
 
 I know how to:
 * pitch newsworthy stories
@@ -26,24 +26,26 @@ I know how to:
 
 <h4>Packages</h4>
 
-<iframe src="https://www.komu.com/videoplayer/iframe_jw.cfm?video_id=50531" height="410" width="728" frameBorder="0" scrolling="auto" ></iframe>
+<iframe src="https://www.komu.com/videoplayer/iframe_jw.cfm?video_id=55018" height="410" width="728" frameBorder="0" scrolling="auto" ></iframe>
 
 See more examples with accompanying articles and photos on KOMU's site below.
-* [New church display expands meaning of mangers](https://www.komu.com/news/new-church-display-expands-meaning-of-mangers)
-* [Walk to End Alzheimer's flowers represent more than their colors](https://www.komu.com/news/walk-to-end-alzheimer-s-flowers-represent-more-than-their-colors)
+* [One million nails donated to help rebuild local damaged homes](https://www.komu.com/news/one-million-nails-donated-to-help-rebuild-local-damaged-homes)
+
+* [Hallsville girl surprised with dream of a lifetime: her own horse](https://www.komu.com/news/hallsville-girl-surprised-with-dream-of-a-lifetime-her-own-horse)
+
 * [MU students volunteer to help people with multiple sclerosis](https://www.komu.com/news/mu-students-volunteer-to-help-people-with-multiple-sclerosis)
-* [Freedom Walk 5k raises awareness about human sex trafficking](https://www.komu.com/news/freedom-walk-5k-raises-awareness-about-human-sex-trafficking)
 
 <h4>VOSOTVOs and VOSOTTAGS</h4>
-<iframe src="https://www.komu.com/videoplayer/iframe_jw.cfm?video_id=54315" height="410" width="728" frameBorder="0" scrolling="auto" ></iframe>
+
+<iframe src="https://www.komu.com/videoplayer/iframe_jw.cfm?video_id=55961" height="410" width="728" frameBorder="0" scrolling="auto" ></iframe>
 
 See more examples with accompanying articles and photos on KOMU's site below.
 
+* [Six predominantly black churches in Columbia get lifesaving health device](https://www.komu.com/news/six-predominantly-black-churches-in-columbia-get-lifesaving-health-device)
 
-* [More than a piece of clothing, Stephens College celebrates the past](https://www.komu.com/news/more-than-a-piece-of-clothing-stephens-college-celebrates-the-past)
-* [Free tax aid program impacted by government shutdown and new tax plan](https://www.komu.com/news/free-tax-aid-program-impacted-by-government-shutdown-and-new-tax-plan)
-* [Jingle Bell Run hopes to rings in a cure for arthritis](https://www.komu.com/news/jingle-bell-run-hopes-to-ring-in-a-cure-for-arthritis)
-* [Compost awareness week teaches people to get down in the dirt](https://www.komu.com/news/compost-awareness-week-teaches-people-to-get-down-in-the-dirt)
+* [New U.S., Japan trade agreement helps Missouri agricultural sales](https://www.komu.com/news/new-u-s-japan-trade-agreement-helps-missouri-agricultural-sales)
+
+* [Columbia city council candidates can file to run this week](https://www.komu.com/news/columbia-city-council-candidates-can-file-to-run-this-week)
 
 <figure class="large-img">
   <img src="/assets/images/ground.JPG" alt="Placeholder"/>
