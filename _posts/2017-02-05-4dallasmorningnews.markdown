@@ -6,6 +6,23 @@ categories:
 description:
 image: /assets/images/DMN HEADER.JPG
 ---
+<h3>CNN</h3>
+June 2019  - August 2019
+<div>
+</div>
+At CNN, I interned for Erin Burnett OutFront. I worked daily on the evening newscast. I also completed a research project for the team over the 2020 election. I then completed several packages. For PKG below, I pitched the idea, set up and conducted my own interviews, and wrote and tracked the script. I also shot and edited the piece with oversight from CNN’s photographers and editors. For this piece, I pitched the idea, wrote the script, and edited the piece with oversight.
+
+<h3>London Live</h3>
+January 2020-March 2020
+<div>
+</div>
+During my semester abroad, I interned for London Live. London Live is a local news station with an hour long evening newscast every weekday. Each shift, I turned a new story for them. I shot, edited, and tracked each story. London Live uses a lot of pieces without reporter track—it focuses on a more short documentary style.
+<div>
+</div>
+With reporter track:
+
+Without reporter track:
+
 <h3>Dallas Morning News</h3>
 
 I was the youngest intern to work for the Dallas Morning News, and I interned for the organization two summers in a row. My first summer, I worked as a metro news reporter, covering a variety of topics from a theatre troupe to a vandalism with a drugged up vandal. I also made DMN's first intern recruitment video.
