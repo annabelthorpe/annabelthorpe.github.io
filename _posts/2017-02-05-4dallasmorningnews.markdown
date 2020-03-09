@@ -37,7 +37,7 @@ During my semester abroad, I interned for London Live. London Live is a local ne
 </div>
 <div>
 </div>
-<h2>Dallas Morning News</h2>
+<h1>Dallas Morning News</h1>
 June 2015-August 2015
 June 2016-July 2016
 <div>
@@ -46,10 +46,10 @@ I was the youngest intern to work for the Dallas Morning News, and I interned fo
 <div>
 </div>
 
-<h4>Intern recruitment video</h4>
+<h2>Intern recruitment video</h2>
 <iframe width="728" height="410" src="https://www.youtube.com/embed/HQjhobrk-hE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<h2>Metro news reporter examples</h2>
+<h3>Metro news reporter examples</h3>
 * [Kids’ University specializes in hopes and dreams for homeless children](https://www.dallasnews.com/news/richardson/2015/06/12/kids-university-specializes-in-hopes-and-dreams-for-homeless-children)
 * [Latino Cultural Center cleaning up from vandalism](https://www.dallasnews.com/news/news/2015/07/23/latino-cultural-center-cleaning-up-from-vandalism)
 * [Kitchen Dog Theater to unload 20 years worth of props at garage sale](https://www.dallasnews.com/news/news/2015/07/09/kitchen-dog-theater-to-unload-20-years-worth-of-props-at-garage-sale)
