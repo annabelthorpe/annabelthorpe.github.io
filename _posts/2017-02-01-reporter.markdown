@@ -4,7 +4,7 @@ title: "Reporter"
 date: 2017-02-10
 categories:
 description:
-image: /assets/images/reporter.JPG
+image: assets/images/reporter update.jpg
 ---
 I am a multimedia journalists for KOMU-TV, so I interview, shoot and edit all my own stories. I've learned how to turn stories quickly and push for the interviews needed to tell the best story. All of the stories below, except the featured pkg, are day turns.
 

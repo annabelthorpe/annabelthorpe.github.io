@@ -4,8 +4,9 @@ title: "Internships"
 date: 2017-02-06
 categories:
 description:
-image: /assets/images/DMN HEADER.JPG
+image: assets/images/cnn.jpg
 ---
+<h3>London Live | CNN | Dallas Morning News</h3>
 <h3>CNN</h3>
 June 2019  - August 2019
 <div>
