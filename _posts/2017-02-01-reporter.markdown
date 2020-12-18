@@ -6,9 +6,10 @@ categories:
 description:
 image: assets/images/reporter3.JPG
 ---
-I am a multimedia journalists for KOMU-TV, so I interview, shoot and edit all my own stories. I've learned how to turn stories quickly and push for the interviews needed to tell the best story. All of the stories below, except the featured pkg, are day turns.
+I am a multimedia journalists for KOMU-TV; I interview, write, shoot and edit all my stories. I've learned how to turn stories quickly and push for the interviews needed to tell the best story.
 
 I know how to:
+* complete demonstrative stand-ups
 * pitch newsworthy stories
 * shoot all my own video
 * interview
@@ -17,7 +18,7 @@ I know how to:
 * turn PKGS and VOSOTVOs
 * work in iNews
 * go live with a Dejero backpack
-* complete demonstrative stand-ups (my favorite!)
+
 
 ## Examples
 <h4>Reel</h4>
