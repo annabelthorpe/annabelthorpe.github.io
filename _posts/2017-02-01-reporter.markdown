@@ -27,8 +27,6 @@ I know how to:
 
 <h4>Packages</h4>
 
-<iframe src="https://www.komu.com/videoplayer/iframe_jw.cfm?video_id=55018" height="410" width="728" frameBorder="0" scrolling="auto" ></iframe>
-
 See more enterprise stories with accompanying articles on KOMU's site below.
 * [Father of Sedalia woman shot and killed by deputy speaks out](https://www.komu.com/news/midmissourinews/father-of-sedalia-woman-shot-and-killed-by-deputy-speaks-out/article_d5b5f058-3ffe-11eb-aad5-6bb6901cb8e0.html)
 
