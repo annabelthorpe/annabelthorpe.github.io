@@ -4,7 +4,7 @@ title: "Reporter"
 date: 2017-02-10
 categories:
 description:
-image: assets/images/reporter3.JPG
+image: assets/images/politicalreporting.JPG
 ---
 I am a multimedia journalists for KOMU-TV; I interview, write, shoot and edit all my stories. I've learned how to turn stories quickly and push for the interviews needed to tell the best story.
 
@@ -23,30 +23,29 @@ I know how to:
 ## Examples
 <h4>Reel</h4>
 
-<iframe width="728" height="410" src="https://www.youtube.com/embed/XXzREONuEUQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="728" height="410" src="https://www.youtube.com/embed/vH_dcbh31uU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <h4>Packages</h4>
 
 <iframe src="https://www.komu.com/videoplayer/iframe_jw.cfm?video_id=55018" height="410" width="728" frameBorder="0" scrolling="auto" ></iframe>
 
-See more examples with accompanying articles and photos on KOMU's site below.
-* [One million nails donated to help rebuild local damaged homes](https://www.komu.com/news/one-million-nails-donated-to-help-rebuild-local-damaged-homes)
+See more enterprise stories with accompanying articles on KOMU's site below.
+* [Father of Sedalia woman shot and killed by deputy speaks out](https://www.komu.com/news/midmissourinews/father-of-sedalia-woman-shot-and-killed-by-deputy-speaks-out/article_d5b5f058-3ffe-11eb-aad5-6bb6901cb8e0.html)
 
-* [Hallsville girl surprised with dream of a lifetime: her own horse](https://www.komu.com/news/hallsville-girl-surprised-with-dream-of-a-lifetime-her-own-horse)
+* [CARES Act funding provides counties with a key weapon against rising COVID-19 rates](https://www.komu.com/news/midmissourinews/cares-act-funding-provides-counties-with-a-key-weapon-against-rising-covid-19-rates/article_8f49fa44-2d4b-11eb-95d4-3390c41e969b.html)
 
-* [U.S., China trade war impacts local farmers and consumers](https://www.komu.com/news/u-s-china-trade-war-impacts-local-farmers-and-consumers)
+* [Missouri ranks 40th for women representation in state legislature](https://www.komu.com/news/missouri-ranks-40th-for-women-representation-in-state-legislature/article_02fcc235-bf34-555e-9572-6967f2dbc292.html)
 
-<h4>VOSOTVOs and VOSOTTAGS</h4>
+* [Gubernatorial candidates use current office as a political weapon and shield](https://www.komu.com/news/elections/gubernatorial-candidates-use-current-office-as-a-political-weapon-and-shield/article_f4209c0c-140a-11eb-a5f1-c3c71e52482c.html)
 
-<iframe src="https://www.komu.com/videoplayer/iframe_jw.cfm?video_id=55961" height="410" width="728" frameBorder="0" scrolling="auto" ></iframe>
+See more day turn packages with accompanying articles on KOMU's site below.
+* [DHSS First lady felt mild symptoms days before getting tested](https://www.komu.com/news/dhss-first-lady-felt-mild-symptoms-days-before-getting-tested/article_2dd31646-c804-5999-9dc0-5d8b11221fb9.html)
 
-See more examples with accompanying articles and photos on KOMU's site below.
+* [Health expert shares how to help students transition to online learning](https://www.komu.com/news/midmissourinews/health-expert-shares-how-to-help-students-transition-to-online-learning/article_182fc9ce-287e-11eb-a944-8bd78de6fbd6.html)
 
-* [Six predominantly black churches in Columbia get lifesaving health device](https://www.komu.com/news/six-predominantly-black-churches-in-columbia-get-lifesaving-health-device)
+* [Children join mid Missouri protests](https://www.komu.com/children-join-mid-missouri-protests/article_c96da979-036d-50b5-b47d-b9813a6e639c.html)
 
-* [New U.S., Japan trade agreement helps Missouri agricultural sales](https://www.komu.com/news/new-u-s-japan-trade-agreement-helps-missouri-agricultural-sales)
-
-* [Columbia city council candidates can file to run this week](https://www.komu.com/news/columbia-city-council-candidates-can-file-to-run-this-week)
+* [Contact tracers face an unexpected emotional rollercoaster on the job](https://www.komu.com/news/covid19/contact-tracers-face-an-unexpected-emotional-rollercoaster-on-the-job/article_63b42b0e-3a7d-11eb-990f-8f5ee4faad8c.html)
 
 <figure class="large-img">
   <img src="/assets/images/ground.JPG" alt="Placeholder"/>
