@@ -23,8 +23,7 @@ I know how to:
 ## Examples
 <h4>Reel</h4>
 
-<iframe width="728" height="410" src="https://www.youtube.com/watch?v=rYUW6aQetvM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<iframe width="728" height="410" src="https://www.youtube.com/embed/rYUW6aQetvM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <h4>Packages</h4>
 
 See more enterprise stories with accompanying articles on KOMU's site below.
