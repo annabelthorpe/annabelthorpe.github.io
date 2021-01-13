@@ -24,6 +24,7 @@ I know how to:
 <h4>Reel</h4>
 
 <iframe width="728" height="410" src="https://www.youtube.com/embed/rYUW6aQetvM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <h4>Packages</h4>
 
 See more enterprise stories with accompanying articles on KOMU's site below.
@@ -33,14 +34,10 @@ See more enterprise stories with accompanying articles on KOMU's site below.
 
 * [Missouri ranks 40th for women representation in state legislature](https://www.komu.com/news/missouri-ranks-40th-for-women-representation-in-state-legislature/article_02fcc235-bf34-555e-9572-6967f2dbc292.html)
 
-* [Gubernatorial candidates use current office as a political weapon and shield](https://www.komu.com/news/elections/gubernatorial-candidates-use-current-office-as-a-political-weapon-and-shield/article_f4209c0c-140a-11eb-a5f1-c3c71e52482c.html)
-
 See more day turn packages with accompanying articles on KOMU's site below.
 * [DHSS First lady felt mild symptoms days before getting tested](https://www.komu.com/news/dhss-first-lady-felt-mild-symptoms-days-before-getting-tested/article_2dd31646-c804-5999-9dc0-5d8b11221fb9.html)
 
 * [Health expert shares how to help students transition to online learning](https://www.komu.com/news/midmissourinews/health-expert-shares-how-to-help-students-transition-to-online-learning/article_182fc9ce-287e-11eb-a944-8bd78de6fbd6.html)
-
-* [Children join mid Missouri protests](https://www.komu.com/children-join-mid-missouri-protests/article_c96da979-036d-50b5-b47d-b9813a6e639c.html)
 
 * [Contact tracers face an unexpected emotional rollercoaster on the job](https://www.komu.com/news/covid19/contact-tracers-face-an-unexpected-emotional-rollercoaster-on-the-job/article_63b42b0e-3a7d-11eb-990f-8f5ee4faad8c.html)
 

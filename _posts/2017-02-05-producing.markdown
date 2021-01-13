@@ -9,9 +9,9 @@ image: /assets/images/producing cover.jpg
 As a producer at KOMU-TV, I've learned invaluable lessons about newsworthiness, time management, writing quickly, writing for the ear, and working under pressure. I have experience producing the noon show, the 5 p.m., the 6 p.m., the 9 p.m., and the morning show (11 p.m. to 8 a.m. shift.)
 
 I know who to:
-* write good copy
+* write engaging copy
+* stack a show and blocks in compelling and effective way
 * write attention-catching teases, headlines and promos
-* create a logical, flowing newscast
 * pick the most newsworthy lead
 * work and communicate with reporters throughout the day
 * manage breaking news
