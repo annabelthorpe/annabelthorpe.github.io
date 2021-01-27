@@ -10,15 +10,16 @@ As a producer at KOMU-TV, I've learned invaluable lessons about newsworthiness, 
 
 I know who to:
 * write engaging copy
-* stack a show and blocks in compelling and effective way
-* write attention-catching teases, headlines and promos
+* stack newscast and blocks in compelling, effective way
+* utilize BAMS, OTS, ROLLING BAMS, PRE-SQUEEZE, BOXES, other graphics
 * pick the most newsworthy lead
+* write attention-catching teases, headlines and promos
 * work and communicate with reporters throughout the day
 * manage breaking news
 * use iNews
 * booth shows and cue live reporters
 * use effective supers
-* utilize BAMS, OTS, ROLLING BAMS, PRE-SQUEEZE, BOXES, other graphics
+
 
 
 ## Examples
@@ -26,10 +27,10 @@ I know who to:
 <iframe width="728" height="410" src="https://www.youtube.com/embed/XPhKJFLFr7Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 See more examples of my work below.
-* [B Block Examples 1](https://youtu.be/StDtxeuVVFk)
-* [B Block Example 2](https://youtu.be/nqibNZ8azh0)
+* [B Block Example 1](https://youtu.be/StDtxeuVVFk)
+* [B Block Exampl 2](https://youtu.be/nqibNZ8azh0)
 
-<h3>A Block, solo-produce and not anchor</h3>
+<h3>A Block, solo-produce</h3>
 <iframe width="728" height="410" src="https://www.youtube.com/embed/HED4qd5WXJw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 See more examples of my work below.

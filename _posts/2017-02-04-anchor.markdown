@@ -18,7 +18,6 @@ I know how to:
 <h3>Reel</h3>
 <iframe width="728" height="410" src="https://www.youtube.com/embed/Ep8qeFchL70" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
 <figure class="large-img">
   <img src="/assets/images/anchor2.JPG" alt="Placeholder"/>
 </figure>
