@@ -22,6 +22,14 @@ I know who to:
 
 
 ## Examples
+<h3>A Block, co-produce and anchor</h3>
+<iframe width="728" height="410" src="https://www.youtube.com/embed/XPhKJFLFr7Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+See more examples of my work below.
+* [B Block Examples 1](https://youtu.be/StDtxeuVVFk)
+* [B Block Example 2](https://youtu.be/nqibNZ8azh0)
+
+<h3>A Block, solo-produce and not anchor</h3>
 <iframe width="728" height="410" src="https://www.youtube.com/embed/HED4qd5WXJw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 See more examples of my work below.
