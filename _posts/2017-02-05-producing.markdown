@@ -6,7 +6,7 @@ categories:
 description:
 image: /assets/images/producing cover.jpg
 ---
-As a producer at KOMU-TV, I've learned invaluable lessons about newsworthiness, time management, writing quickly, writing for the ear, and working under pressure. I have experience producing the noon show, the 5 p.m., the 6 p.m., the 9 p.m., and the morning show (11 p.m. to 8 a.m. shift.)
+As a producer at KOMU-TV, I've learned invaluable lessons about newsworthiness, time management, writing quickly, writing for the ear, and working under pressure. I currently co-produce and anchor a weekend morning newscast. I have experience producing the noon show, the 5 p.m., the 6 p.m., the 9 p.m., and the morning show (11 p.m. to 8 a.m. shift.)
 
 I know who to:
 * write engaging copy
@@ -28,7 +28,7 @@ I know who to:
 
 See more examples of my work below.
 * [B Block Example 1](https://youtu.be/StDtxeuVVFk)
-* [B Block Exampl 2](https://youtu.be/nqibNZ8azh0)
+* [B Block Example 2](https://youtu.be/nqibNZ8azh0)
 
 <h3>A Block, solo-produce</h3>
 <iframe width="728" height="410" src="https://www.youtube.com/embed/HED4qd5WXJw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
