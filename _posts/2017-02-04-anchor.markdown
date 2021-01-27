@@ -2,12 +2,13 @@
 layout: post
 title: "Anchor"
 date: 2017-02-09
-image: assets/images/anchorwideimage.jpeg
+image: assets/images/anchor3.JPG
 ---
 I anchor full newscasts, and I've done everything from morning to noon to evening newscasts. Currently, solo anchor the Sunday morning newscast each week. I co-produce the hour-long newscast.
 
 I know how to:
 * write scripts and teases
+* write and build out blocks in the newscast
 * use multiple prompters
 * impromptu chats with the other anchors
 * connect with stories
@@ -19,5 +20,5 @@ I know how to:
 
 
 <figure class="large-img">
-  <img src="assets/images/anchorwideimage.jpeg" alt="Placeholder"/>
+  <img src="/assets/images/anchor2.JPG" alt="Placeholder"/>
 </figure>
