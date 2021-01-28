@@ -9,21 +9,25 @@ image: assets/images/politicalreporting.JPG
 I am a multimedia journalists for KOMU-TV; I interview, write, shoot and edit all my stories. I've learned how to turn stories quickly and push for the interviews needed to tell the best story.
 
 I know how to:
+* craft stories with themes, symbols, and focus
+* capture and edit tight NAT pops
+* cover breaking news, go live in breaking circumstances
+* humanize stories
 * complete demonstrative stand-ups
 * pitch newsworthy stories
 * shoot all my own video
-* interview
+* interview, and multi-shot interviews
 * live tweet my stories
 * edit on Premiere Pro, Final Cut and Avid
-* turn PKGS and VOSOTVOs
+* turn PKGS and VOSOTVOs, multiple versions
 * work in iNews
-* go live with a Dejero backpack
+* go live with a Dejero backpack, solo live shots
 
 
 ## Examples
 <h4>Reel</h4>
 
-<iframe width="728" height="410" src="https://www.youtube.com/embed/rYUW6aQetvM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="728" height="410" src="https://www.youtube.com/embed/tH0kC7QBViI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <h4>Packages</h4>
 
