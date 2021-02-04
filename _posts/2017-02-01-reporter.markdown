@@ -4,7 +4,7 @@ title: "Reporter"
 date: 2017-02-10
 categories:
 description:
-image: assets/images/politicalreporting.JPG
+image: assets/images/electionreportphoto copy.jpg
 ---
 I am a multimedia journalists for KOMU-TV; I interview, write, shoot and edit all my stories. I've learned how to turn stories quickly and push for the interviews needed to tell the best story.
 
