@@ -13,7 +13,7 @@
   ],
   "author": "Thomas Vaeth <thomas.vaeth@gmail.com> (http://thomasvaeth.com/)",
   "devDependencies": {
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "gulp-concat": "^2.6.1",
     "gulp-rename": "^1.2.2",
     "gulp-strip-comments": "^2.4.3",
